@@ -3,8 +3,12 @@ import App from './App.vue'
 import './registerServiceWorker'
 import router from './router'
 import store from './store'
-
-Vue.config.productionTip = false
+import Ionic from '@ionic/vue';
+import '@ionic/core/css/ionic.bundle.css';
+import Vuelidate from 'vuelidate'
+Vue.use(Vuelidate)
+Vue.use(Ionic);
+Vue.config.productionTip = false;
 
 new Vue({
   router,
