@@ -7,7 +7,7 @@ import Ionic from '@ionic/vue';
 import '@ionic/core/css/ionic.bundle.css';
 import Vuelidate from 'vuelidate'
 Vue.use(Vuelidate)
-Vue.use(Ionic);
+Vue.use(Ionic)
 Vue.config.productionTip = false;
 
 new Vue({
