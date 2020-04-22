@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c0f833e9dd72a5afbd7",
+    "revision": "d39dd6feca122dd7f122",
     "url": "/css/app.b84caa9c.css"
   },
   {
@@ -2796,12 +2796,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/undraw_wallet_aym5.3e29c227.png"
   },
   {
-    "revision": "9794e8e8e985a7e121b8e2cf5a02bd97",
+    "revision": "a68b0d6763f11aedb71a7987c23bb3b2",
     "url": "/index.html"
   },
   {
-    "revision": "4c0f833e9dd72a5afbd7",
-    "url": "/js/app.bd62ff22.js"
+    "revision": "d39dd6feca122dd7f122",
+    "url": "/js/app.1e6ba8da.js"
   },
   {
     "revision": "c3ac36ec4bc2a7a0e542",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e8863b18d9c0e6ecec4b4ad70c10dd28.js"
+  "/precache-manifest.7cbd9b232e6c350a784c48013b4d365c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "converteuro"});

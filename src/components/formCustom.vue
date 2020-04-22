@@ -74,7 +74,7 @@
                     .then(a => a.present())
             },
         },
-        mounted(){
+        beforeMount(){
             this.money()
         }
     }
