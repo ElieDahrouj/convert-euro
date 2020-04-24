@@ -33,7 +33,7 @@ export default new Vuex.Store({
   },
   actions: {
       money({commit}){
-        axios.get('http://data.fixer.io/api/latest?access_key='+process.env.VUE_APP_KEY)
+        axios.get('https://data.fixer.io/api/latest?access_key='+process.env.VUE_APP_KEY)
             .then(response =>{
               commit('displayMoney',response.data.rates)
             })
